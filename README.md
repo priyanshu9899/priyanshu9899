@@ -6,6 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/priyansh9899" target="blank"><img src="https://img.shields.io/twitter/follow/priyansh9899?logo=twitter&style=for-the-badge" alt="priyansh9899" /></a> </p>
 
+
+- 🔭 I’m currently working on **Data Structures**
+
+- 🌱 I’m currently learning **tailwind , react native**
+
+- 💬 Ask me about **html , css**
+
 - 📫 How to reach me **priyanshukusinha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
