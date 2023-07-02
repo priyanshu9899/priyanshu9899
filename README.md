@@ -5,7 +5,7 @@
 
 <p align=“left”> <img src="https://komarev.com/ghpvc/?username=priyanshu9899&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu9899" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Priyans9899" target="blank"><img src="https://img.shields.io/twitter/follow/Priyans9899?logo=twitter&style=for-the-badge" alt="Priyans9899" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@Priyans9899" target="blank"><img src="https://img.shields.io/twitter/follow/@Priyans9899?logo=twitter&style=for-the-badge" alt="@Priyans9899" /></a> </p>
 
 
 
