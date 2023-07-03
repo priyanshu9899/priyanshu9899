@@ -9,11 +9,11 @@
 
 
 
-- 🔭 I’m currently working on **Data Structures**
+- 🔭 I’m currently working on **learning Data Structures**
 
-- 🌱 I’m currently learning **tailwind , react native**
+- 🌱 I’m currently learning **backend devlopment , react native**
 
-- 💬 Ask me about **html , css**
+- 💬 Ask me about **frontend devlopment**
 
 - 📫 How to reach me **priyanshukusinha@gmail.com**
 
