@@ -41,5 +41,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu9899&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="priyanshu9899" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu9899&theme=vue-dark&hide_border=true" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu9899&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"</p>
+
 
