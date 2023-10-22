@@ -26,7 +26,9 @@
 <div>
 
 ## Watch snake eating my github contributions
-![snake gif](https://github.com/priyanshu9899/priyanshu9899/blob/output/github-contribution-grid-snake.svg)
+<!--![snake gif](https://github.com/priyanshu9899/priyanshu9899/blob/output/github-contribution-grid-snake.svg)-->
+<p><img align="center" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" /></p>
+
 
 </div>
 
